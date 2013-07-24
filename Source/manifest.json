@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Nube a Ojete",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Reemplaza el texto 'la nube' con 'mi ojete'.",
 	"content_scripts": 
 	[
 		{

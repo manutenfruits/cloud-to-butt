@@ -1,7 +1,7 @@
 nube-a-ojete
 =============
 
-Extensión de Chromr que reemplaza todas las ocurrencias de "la nube" con "mi ojete".
+Extensión de Chrome que reemplaza todas las ocurrencias de "la nube" con "mi ojete".
 Versión castellanizada de https://github.com/canweriotnow/cloud-to-butt
 
 Instalación
