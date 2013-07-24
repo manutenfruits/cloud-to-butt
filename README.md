@@ -1,11 +1,10 @@
-cloud-to-butt
+nube-a-ojete
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Extensión de Chromr que reemplaza todas las ocurrencias de "la nube" con "mi ojete".
+Versión castellanizada de https://github.com/canweriotnow/cloud-to-butt
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
-
-Installation
+Instalación
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+En Chrome, panel Herramientas > Extensiones.  Arastrar NubeAOjete.crx en la página que aparece.
